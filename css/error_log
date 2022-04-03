@@ -1,0 +1,6 @@
+[09-Feb-2021 14:44:23 UTC] PHP Warning:  include(auth_session.php): failed to open stream: No such file or directory in /home/amt35nlbjevl/public_html/css/cpanel.php on line 3
+[09-Feb-2021 14:44:23 UTC] PHP Warning:  include(): Failed opening 'auth_session.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/amt35nlbjevl/public_html/css/cpanel.php on line 3
+[09-Feb-2021 14:44:24 UTC] PHP Notice:  Undefined index: username in /home/amt35nlbjevl/public_html/css/cpanel.php on line 86
+[09-Feb-2021 14:44:24 UTC] PHP Notice:  Undefined index: username in /home/amt35nlbjevl/public_html/css/cpanel.php on line 147
+[09-Feb-2021 14:44:24 UTC] PHP Notice:  Undefined index: username in /home/amt35nlbjevl/public_html/css/cpanel.php on line 267
+[09-Feb-2021 14:44:24 UTC] PHP Notice:  Undefined index: username in /home/amt35nlbjevl/public_html/css/cpanel.php on line 418

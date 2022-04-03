@@ -1,0 +1,4 @@
+<IfModule LiteSpeed>
+CacheDisable public /
+CacheDisable private /
+</IfModule>
